@@ -2,6 +2,7 @@
 
 Creating a Discord Bot with Python + Free Hosting
 In this [series](https://www.youtube.com/playlist?list=PL4uiqmxdHHBvoMcgEakiJ0S006YPM_ALN), we go over how to create and run and host our very own Discord Bot.
+![Series Thumbnail](Series%20Thumbnail.png)
 
 ## Quick Links
 
