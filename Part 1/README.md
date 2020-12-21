@@ -5,6 +5,9 @@ In this [video](https://youtu.be/S6ihrpoELZU), we go over how to setup the Disco
 
 ## Installation
 
+If you are using Repl.it, all packages imported are installed automatically.
+
+Else if you are making the bot locally -
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install discord.py.
 
 ```bash
@@ -29,4 +32,5 @@ Read the docs for better understanding of the code.
 Create your very own Discord Bot here!
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
