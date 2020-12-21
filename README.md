@@ -5,15 +5,15 @@ In this [series](https://www.youtube.com/playlist?list=PL4uiqmxdHHBvoMcgEakiJ0S0
 
 ## Quick Links
 
-Part 1
+* Part 1
 
-Files - [Part 1](/Part%201)
+  * [Files](/Part%201)
 
-Video - [Link](https://youtu.be/S6ihrpoELZU)
+  * [Video](https://youtu.be/S6ihrpoELZU)
 
-Part 2
+* Part 2
 
-Coming Soon
+  * Coming Soon
 
 ## Resources
 
