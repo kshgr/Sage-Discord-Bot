@@ -2,6 +2,7 @@
 
 This is the first part of the new Discord Bot with Python tutorial series.
 In this [video](https://youtu.be/S6ihrpoELZU), we go over how to setup the Discord Bot.
+[![Thumbnail](thumbnail.png)](https://youtu.be/S6ihrpoELZU)
 
 ## Installation
 
