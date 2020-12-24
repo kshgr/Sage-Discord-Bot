@@ -6,15 +6,16 @@ In this [series](https://www.youtube.com/playlist?list=PL4uiqmxdHHBvoMcgEakiJ0S0
 
 ## Quick Links
 
-* Part 1
+* Part 1 (Setup)
 
   * [Files](/Part%201)
 
   * [Video](https://youtu.be/S6ihrpoELZU)
 
-* Part 2
+* Part 2 (Events)
 
-  * Coming Soon
+  * [Files](/Part%202)
+  * [Video]()
 
 ## Resources
 
