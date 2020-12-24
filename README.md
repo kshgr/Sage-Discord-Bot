@@ -15,7 +15,7 @@ In this [series](https://www.youtube.com/playlist?list=PL4uiqmxdHHBvoMcgEakiJ0S0
 * Part 2 (Events)
 
   * [Files](/Part%202)
-  * [Video]()
+  * [Video](https://youtu.be/pQk6Yvsv4YU)
 
 ## Resources
 
