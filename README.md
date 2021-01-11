@@ -16,6 +16,10 @@ In this [series](https://www.youtube.com/playlist?list=PL4uiqmxdHHBvoMcgEakiJ0S0
 
   * [Files](/Part%202)
   * [Video](https://youtu.be/pQk6Yvsv4YU)
+  
+* Part 3 (Commands and Cogs)
+  * [Files](/Part%203)
+  * [Video]()
 
 ## Resources
 
