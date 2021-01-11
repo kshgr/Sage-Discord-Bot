@@ -1,4 +1,4 @@
-# Creating a Discord Bot with Python - 1 (Setup)
+# Creating a Discord Bot with Python - 2 (Events)
 
 This is the second part of the Discord Bot with Python tutorial series.
 In this [video](https://youtu.be/pQk6Yvsv4YU), we go over the use of events with the Discord Bot.
